@@ -9,3 +9,5 @@ dependencyResolutionManagement {
 rootProject.name = "Modularer"
 include ':app'
 include ':modularizer'
+include ':modularizer:compiler'
+include ':modularizer:annotations'
